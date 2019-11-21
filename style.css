@@ -4,3 +4,8 @@ label {
   cursor: pointer;
   padding: 1em;
 }
+
+.wrapper {
+  width: 800px;
+  margin: 0 auto;
+}
